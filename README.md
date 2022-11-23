@@ -14,7 +14,6 @@ Automatically downloadable list of areas in Turkey that are closed to receive Ik
 
 
 ### [BadGoodFoodBot](https://t.me/GoodBadFoodBot)
-
 Create a telegram bot where you can send photos of food, products in the store and mark whether they are good or bad.
 
 
